@@ -1,0 +1,14 @@
+{
+    "name": "devbridge/jquery-autocomplete",
+    "description": "Devbridge jQuery Ajax Autocomplete",
+    "type": "jquery-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomas Kirda",
+            "email": "devbridge@devbridge.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
